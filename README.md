@@ -73,7 +73,7 @@ Tuition_Media_Platform/
 ## 🛠️ Installation & Setup
 
 ### **1️⃣ Clone the repository**
-```bash
+
 git clone https://github.com/Barrun-Kabir-Rifat/Tuition_Media_Platform.git
 
 ---
@@ -101,4 +101,7 @@ To contribute to this project:
 2. **Create** a new feature branch  
    ```bash
    git checkout -b feature-name
-
+   
+👤 Author
+Barrun Kabir Rifat
+GitHub Profile:
