@@ -41,35 +41,6 @@ This system allows users to register, log in, browse tuition posts, manage appli
 
 ---
 
-## 📁 Project Structure
-Tuition_Media_Platform/
-│
-├── index.php # Homepage
-├── signup_student.php # Student registration
-├── signup_teacher.php # Teacher registration
-├── login_student.php # Student login
-├── login_teacher.php # Teacher login
-│
-├── dashboard_student.php # Student dashboard
-├── dashboard_teacher.php # Teacher dashboard
-│
-├── post_tuition.php # Form for posting tuitions
-├── teacher_list.php # List of teachers
-├── job_board.php # Tuition job board
-├── applications.php # Student applications
-├── request_received.php # Teachers view received requests
-├── application_received.php # View detailed request
-│
-├── styles.css # Global CSS file
-├── signin_signup.css # Login/signup styles
-│
-├── database.php # DB connection
-├── query.sql # Database structure
-│
-└── README.md # Documentation
-
----
-
 ## 🛠️ Installation & Setup
 
 ### **1️⃣ Clone the repository**
@@ -102,6 +73,6 @@ To contribute to this project:
    ```bash
    git checkout -b feature-name
    
-👤 Author
+👤 Author<br>
 Barrun Kabir Rifat
 GitHub Profile:
