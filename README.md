@@ -74,5 +74,5 @@ To contribute to this project:
    git checkout -b feature-name
    
 👤 Author<br>
-Barrun Kabir Rifat
-GitHub Profile:
+Barrun Kabir Rifat<br>
+Email:rkrifat048@gmail.com
